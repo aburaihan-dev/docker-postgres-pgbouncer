@@ -15,7 +15,7 @@ This project is designed for Deploying PostgreSQL with PgBouncer using Docker.
 
 ## Getting Started <a name="getting_started"></a>
 
-These instructions will help you set up and run the project on your local machine for development and testing. For deployment instructions, refer to [deployment](#deployment).
+These instructions will help you set up and run the project on your local machine for development and testing. For usage instructions, refer to [usage](#usage).
 
 ### Prerequisites
 
